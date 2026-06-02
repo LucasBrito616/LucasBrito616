@@ -1,16 +1,31 @@
-## Hi there 👋
 
-<!--
-**LucasBrito616/LucasBrito616** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá, eu sou Lucas Brito 👋
 
-Here are some ideas to get you started:
+## Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Estudante de Análise e Desenvolvimento de Sistemas na FATEC Indaiatuba.
+
+💻 Tenho interesse por tecnologia em geral e gosto de aprender colocando a teoria em prática através de projetos e estudos.
+
+📚 Estou sempre buscando novos conhecimentos e utilizando este GitHub para registrar minha evolução, experiências e projetos ao longo da graduação.
+
+🚀 Aqui você encontrará desde trabalhos acadêmicos até projetos pessoais que fazem parte da minha trajetória e evolução na área de tecnologia.
+
+
+## Tecnologias e Ferramentas
+
+## Tecnologias e Ferramentas
+
+Tecnologias com as quais já tive contato em projetos acadêmicos e pessoais:
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+</p>
