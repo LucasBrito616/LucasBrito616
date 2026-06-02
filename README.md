@@ -14,8 +14,6 @@
 
 ## Tecnologias e Ferramentas
 
-## Tecnologias e Ferramentas
-
 Tecnologias com as quais já tive contato em projetos acadêmicos e pessoais:
 
 <p align="left">
