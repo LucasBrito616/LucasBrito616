@@ -2,8 +2,8 @@
 # Olá, eu sou Lucas Brito 👋
 
 
-<p align="left">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/source/984e4b31160797.5643aae67dfda.gif" width="120">
+<p align="right">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/source/984e4b31160797.5643aae67dfda.gif" width="160">
 </p>
 
 
