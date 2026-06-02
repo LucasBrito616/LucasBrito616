@@ -1,6 +1,12 @@
 
 # Olá, eu sou Lucas Brito 👋
 
+
+<p align="right">
+  <img src="LINK_DO_GIF_DA_TARDIS" width="120">
+</p>
+
+
 ## Sobre mim
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas na FATEC Indaiatuba.
